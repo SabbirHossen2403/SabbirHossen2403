@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋,I'm Sabbir Hossen</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3gQ579-KVGQcddZMu6JYvF&ust=1739888851047000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDlyo31yosDFQAAAAAdAAAAABAh)">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2J-BzoWpbyfKmTMWHRXcdF&ust=1739889589374000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOD_3OH3yosDFQAAAAAdAAAAABAE">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafikul20&label=Profile%20views&color=0e75b6&style=flat" alt="rafikul20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafikul20&label=Profile%20views&color=0e75b6&style=flat" alt="SA" /> </p>
 
 
 - 🔭 I’m currently working on **Web development**
