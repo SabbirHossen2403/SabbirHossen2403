@@ -18,7 +18,18 @@ Hi there! I'm **Sabbir Hossen**, a passionate **Full Stack Web Developer** from 
 I build beautiful and functional web applications using modern technologies.  
 I believe in continuous learning, clean code, and user-first design. 💻🚀
 
+
 ---
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="mailto:mdsabbirhossen7604@gmail.com">
+  </a>
+  <a href="https://www.linkedin.com/in/sabbir-hossen-94b835360/">
+  </a>
+</p>
+
+
 
 ## 🧰 Tech Stack & Tools
 
@@ -56,17 +67,6 @@ I believe in continuous learning, clean code, and user-first design. 💻🚀
 </p>
 
 ---
-
-## 📫 Let’s Connect
-
-<p align="center">
-  <a href="mailto:mdsabbirhossen7604@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/sabbir-hossen-94b835360/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 ---
 
