@@ -24,8 +24,10 @@ I believe in continuous learning, clean code, and user-first design. 💻🚀
 
 <p align="center">
   <a href="mailto:mdsabbirhossen7604@gmail.com">
+    mdsabbirhossen7604@gmail.com
   </a>
   <a href="https://www.linkedin.com/in/sabbir-hossen-94b835360/">
+    Sabbir Hossen
   </a>
 </p>
 
